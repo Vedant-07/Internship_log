@@ -1,0 +1,17 @@
+/* use ; to add new event  &&   use , to continue the events */
+
+week 1
+meet for orientation ; overview of proj,python basic ; setting up dev. env.,virtual env (setup),github ,sessions on ML intro possibilities 
+
+week 2
+oops and functional programming using py 1day ; adv python concepts ; hands on practise (given worksheets for practise) 2days, maintaining coding standards 
+
+week 3
+imp of data analysis and manipul. in python ; expl. of py libraries for statistics(matplotlib,sklearn,pandas,opencv,seaborn,) ; theory for data preprossing,transformation,etl theory , installation and 
+
+week 4
+day1-practise...
+day2-...
+
+
+Add ON for furthur weeks in a sequential way
